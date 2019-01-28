@@ -61,3 +61,8 @@ There are two teams, which spawn on opposite sides of the map. The gamemode is t
 -  Ability 2 - Totem
 -  Ability 3 - Earth Wall
 -  Ability 4 - Firestorm
+
+## Developers
+- Jaden Balogh
+- Aiden Harrington
+- Sylas Boesten

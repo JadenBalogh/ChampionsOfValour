@@ -10,6 +10,8 @@ Run the game by using the executable folder named CoV.exe.
 
 Once the game is loaded, ONE player must host by using the "Create A Game" option. If you wish to name the server, this is where you must do it. All other players must use the "List Servers" tab and click on the server they want. Once connected, you can rename yourself in the lobby, however this has no effect in game and will not be shown anywhere but the lobby screen. The game is started once all players have pressed "Ready".
 
+![Screenshot 2](/Screenshots/Lobby.png?raw=true "Game Lobby")
+
 Once in game, click on your desired class then press "Enter". Teams are auto-assigned. At this point, everything is set up and combat can commence.
 
 ### Keybinds

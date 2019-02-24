@@ -37,6 +37,8 @@ Once in game, click on your desired class then press "Enter". Teams are auto-ass
 ### Gameplay
 There are two teams, which spawn on opposite sides of the map. The gamemode is team deathmatch: kill the other team while keeping your team alive. Teamwork is essential!
 
+![Screenshot 3](/Screenshots/MapFromAbove.png?raw=true "Bird's eye view of map")
+
 ### Classes
  **Knight**: A well-armoured melee fighter who relies on fast entry to quickly take out unsuspecting enemies.
 -  Primary Attack - Sword
@@ -65,7 +67,7 @@ There are two teams, which spawn on opposite sides of the map. The gamemode is t
 -  Ability 3 - Earth Wall
 -  Ability 4 - Firestorm
 
-![Screenshot 3](/Screenshots/Combat2.png?raw=true "Optional Title")
+![Screenshot 4](/Screenshots/Combat2.png?raw=true "Shaman Firestorm ability in combat")
 
 ## Developers
 - Jaden Balogh

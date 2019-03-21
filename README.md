@@ -1,5 +1,5 @@
 # ChampionsOfValour
-Play one of three classes in a medieval team-deathmatch arena! A first-person combat game that requires both strategy and skill.
+Play one of three classes in a fantasy medieval team-deathmatch arena! A first-person combat game that requires both strategy and skill.
 
 ![Screenshot 1](/Screenshots/Combat1.png?raw=true "Game Combat")
 
